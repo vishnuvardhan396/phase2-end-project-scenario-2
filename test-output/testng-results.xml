@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-01T16:11:07 IST" name="Default suite" finished-at="2024-02-01T16:12:07 IST" duration-ms="59545">
+    <groups>
+    </groups>
+    <test started-at="2024-02-01T16:11:07 IST" name="Default test" finished-at="2024-02-01T16:12:07 IST" duration-ms="59545">
+      <class name="starthealthScenario2.TestStarthealthLink">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:starthealthScenario2.TestStarthealthLink@cc43f62]" started-at="2024-02-01T16:11:07 IST" name="startBrowser" finished-at="2024-02-01T16:12:03 IST" duration-ms="56307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="click_onPlans()[pri:49, instance:starthealthScenario2.TestStarthealthLink@cc43f62]" started-at="2024-02-01T16:12:04 IST" name="click_onPlans" finished-at="2024-02-01T16:12:06 IST" duration-ms="2675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_onPlans -->
+        <test-method signature="click_on_option()[pri:50, instance:starthealthScenario2.TestStarthealthLink@cc43f62]" started-at="2024-02-01T16:12:06 IST" name="click_on_option" finished-at="2024-02-01T16:12:07 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_option -->
+      </class> <!-- starthealthScenario2.TestStarthealthLink -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
